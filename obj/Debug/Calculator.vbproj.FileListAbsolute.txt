@@ -1,0 +1,14 @@
+C:\Users\Youssef\source\repos\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Youssef\source\repos\Calculator\bin\Debug\Calculator.exe
+C:\Users\Youssef\source\repos\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Youssef\source\repos\Calculator\bin\Debug\Calculator.xml
+C:\Users\Youssef\source\repos\Calculator\bin\Debug\Guna.UI2.dll
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.Resources.resources
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.vbproj.CopyComplete
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.exe
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.xml
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Youssef\source\repos\Calculator\obj\Debug\Calculator.Form1.resources
